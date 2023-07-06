@@ -1,5 +1,5 @@
-# Hi ,i'm Prasad Pawar
-# 💫 About Me:
+## Hi ,i'm Prasad Pawar
+### 💫 About Me:
 -🔭 I’m currently working on  Deep Learning<br>- 📫 How to reach me: prasadpawar7475@gmail.com<br>
 
 
