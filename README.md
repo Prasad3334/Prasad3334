@@ -1,7 +1,7 @@
 ## Hi ,i'm Prasad Pawar
-- Data Never Lies
+- Data Never Lies <br>
 ### 💫 About Me:
-- I love to play with Data
+- I love to play with Data <br>
 - I have good Knowledge of Data Science,ML <br>
 -🔭 I’m currently working on Natural Language Processing <br>
 - 📫 How to reach me: analystprasad02@gmail.com<br>
