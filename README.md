@@ -2,7 +2,7 @@
 -💫Data Never Lies <br>
 ### 💫 About Me:
 -🚀I love to play with Data <br>
--😎I have good Knowledge of Data Science,ML <br>
+-😎I have good Knowledge of Data Science,ML,Deep Learning <br>
 -📝 I’m currently working on Natural Language Processing <br>
 -📞 How to reach me: analystprasad02@gmail.com<br>
 
