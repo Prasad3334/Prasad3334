@@ -1,6 +1,10 @@
 ## Hi ,i'm Prasad Pawar
+- Data Never Lies
 ### 💫 About Me:
--🔭 I’m currently working on  Deep Learning<br>- 📫 How to reach me: prasadpawar7475@gmail.com<br>
+- I love to play with Data
+- I have good Knowledge of Data Science,ML <br>
+-🔭 I’m currently working on Natural Language Processing <br>
+- 📫 How to reach me: analystprasad02@gmail.com<br>
 
 
 ## 🌐 Socials:
