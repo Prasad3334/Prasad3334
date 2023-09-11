@@ -1,7 +1,7 @@
 ## Hi ,i'm Prasad Pawar
 -💫Data Never Lies <br>
 ### 💫 About Me:
-- 😎 I am Working On My Portfolio <br>
+- 😎 I am Working On Portfolio <br>
 -🚀I love to play with Data <br>
 -😎I have good Knowledge of Data Science,ML,Deep Learning <br>
 -📝 I’m currently working on Natural Language Processing <br>
